@@ -1,4 +1,4 @@
-git clone https://github.com/Awanmunda/awan.git
+git clone https://github.com/Awanmunda/awan
 
 cd awan7190
 
